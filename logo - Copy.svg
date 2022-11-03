@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="new-home-menu" width="50" height="50"
+                            viewBox="0 0 36 36">
+                            <g id="Desktop---Home" fill="none" fill-rule="evenodd">
+                                <g id="MenuSVG">
+                                    <path
+                                        d="M19.7113159,17.5 L25,22.7886841 L22.7886841,25 L17.5,19.7113159 L12.2113159,25 L10,22.7886841 L15.2886841,17.5 L10,12.2113159 L12.2113159,10 L17.5,15.2886841 L22.7886841,10 L25,12.2113159 L19.7113159,17.5 Z"
+                                        id="menuInnerClose" class="hidden path-fill" />
+                                    <path id="menuInnerDefault" class="path-fill" d="M11 11H24V24H11z" />
+                                    <path id="menuDefault" class="path-stroke" stroke-width="3"
+                                        d="M6.5 6.5H28.5V28.5H6.5z" />
+                                    <path id="menuHover" class="hidden path-stroke" stroke-width="3"
+                                        d="M1.5 1.5H33.5V33.5H1.5z" />
+                                </g>
+                            </g>
+                        </svg>
