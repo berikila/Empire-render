@@ -5371,7 +5371,7 @@ body[data-aos-delay='3000'] [data-aos].animated,
 
 
 .slogan{
-    position: fixed;
+    position: absolute;
     z-index: 1;
     top: 35%;
     left: 50%;
@@ -5398,7 +5398,7 @@ body[data-aos-delay='3000'] [data-aos].animated,
       }
 
       .slogan{
-        position: fixed;
+        position: absolute;
         z-index: 1;
         top: 35%;
         left: 50%;
@@ -5406,7 +5406,7 @@ body[data-aos-delay='3000'] [data-aos].animated,
       }
 
       .butn {
-        position: fixed;
+        position: absolute;
         top: 52%;
         left: 45% !important;
         transform: translate(-50%, -50%);
@@ -6742,7 +6742,7 @@ body:not(.home) #header.js-hide-bg:before {
 
 .header__nav-toggle {
     background: transparent;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 1.2;
     text-align: center;
@@ -6769,7 +6769,7 @@ body:not(.home) #header.js-hide-bg:before {
     -o-transition-duration: 0.2s;
     transition-duration: 0.2s;
     padding-left: 55px;
-    position: relative;
+    position: absolute;
 }
 
 .no-touchevents .header__nav-toggle:hover,
